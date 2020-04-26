@@ -1,5 +1,5 @@
 {
-	"luci-app-ssr-plus": {
+	"luci-app-unblockneteasemusic": {
     "description": "Grant UCI access for luci-app-unblockneteasemusic",
 	"read": {
 		"uci": [ "unblockneteasemusic" ]
